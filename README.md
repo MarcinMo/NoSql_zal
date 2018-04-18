@@ -157,29 +157,42 @@ Agregacje: <br />
 - wykonują wiele różnych operacji na zgrupowanych danych,
 - zwracając pojedynczy wynik.
 
-![agr1](https://github.com/nosql/app-cli-MarcinMo/blob/master/all.png "Logo Title Text 1")
+![agr1](https://github.com/MarcinMo/NoSql_zal/blob/master/all.png "Logo Title Text 1")
 
 
 Agregacja 1:
 ------------------------------
 Time spent in executing function agr1 is: 0.074 sec.
 
-![agr1](https://github.com/nosql/app-cli-MarcinMo/blob/master/time.png "Logo Title Text 1")
+![agr1](https://github.com/MarcinMo/NoSql_zal/blob/master/time.png "Logo Title Text 1")
 
 Agregacja 2:
 ------------------------------
-Time spent in executing function agr1 is: 16.5 sec.
+Time spent in executing function agr2 is: 16.5 sec.
 
-![agr1](https://github.com/nosql/app-cli-MarcinMo/blob/master/najm%C5%82odsze.png "Logo Title Text 1")
+![agr1](https://github.com/MarcinMo/NoSql_zal/blob/master/najm%C5%82odsze.png "Logo Title Text 1")
+
 
 Agregacja 3:
 ------------------------------
 Time spent in executing function agr3 is: 15.5 sec.
 
-![agr2](https://github.com/nosql/app-cli-MarcinMo/blob/master/najstarcze.png "Logo Title Text 1")
+![agr2](https://github.com/MarcinMo/NoSql_zal/blob/master/najstarcze.png "Logo Title Text 1")
 
 
 Obserwacje:
 RAM do dysku ma duże znaczenie w szybkości wykonywania aggregacji.
+
+_______________
+
+#  Git sizer <br />
+
+Komenda jaką trzeba uruchomić:
+
+ ``` git sizer --verbose  ```
+
+
+![agr1](https://github.com/MarcinMo/NoSql_zal/blob/master/git.png "Logo Title Text 1")
+
 
 
