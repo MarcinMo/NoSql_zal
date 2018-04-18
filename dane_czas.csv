@@ -1,0 +1,12 @@
+w1,l:false,
+6.80user,0.68system,1:26.63elapsed
+6.85user,0.71system,1:32.75elapsed
+6.88user,0.59system,1:28.42elapsed
+7.07user,0.61system,1:29.84elapsed
+6.95user,0.54system,1:26.28elapsed
+w1,l:true,
+31.29user,2.66system,9:32.05elapsed
+31.13user,2.87system,9:43.39elapsed
+31.01user,2.86system,9:31.05elapsed
+30.87user,2.88system,9:37.30elapsed
+31.37user,2.88system,9:40.37elapsed
